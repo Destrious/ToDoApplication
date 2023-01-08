@@ -33,7 +33,7 @@ public class SayHelloController {
     }
 
     // JSP Hello
-    // (auto routes to jsp from application.properties without .jsp)
+    // (auto route to jsp from application.properties without .jsp)
     // /resources/META-INF/resources/WEB-INF/jsp/hello.jsp
     @RequestMapping("hello-jsp")
     public String sayHelloJsp() {
