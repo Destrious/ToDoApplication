@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WooktodoApplication {
+public class WookToDoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WooktodoApplication.class, args);
+		SpringApplication.run(WookToDoApplication.class, args);
 	}
 
 }
